@@ -5,7 +5,7 @@ An AI-powered fraud detection system that automatically identifies fraudulent on
 Overview
 Objective: Detect fraudulent transactions to enhance financial security.
 
-Dataset: Online Payments Fraud Detection Dataset (Kaggle)
+Dataset: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
 
 Models Used: Logistic Regression, Random Forest, XGBoost
 
